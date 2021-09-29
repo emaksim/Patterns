@@ -1,0 +1,7 @@
+﻿bin
+obj/Patterns.csproj.nuget.dgspec.json
+*.props
+*.json
+*.cache
+obj
+.vs
